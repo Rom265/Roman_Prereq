@@ -1,0 +1,33 @@
+The version of this module as a whole
+1.0   2024-09-15
+2.0   2024-10-14
+2.1   2024-12-15
+3.0   2024-12-31
+3.1   2025-03-02
+4.0   2025-06-01
+4.1   2025-06-10
+5.0   2026-01-23
+5.1   2026-02-04
+5.2   2026-02-09
+5.2.1 2026-02-13
+6.0   2026-02-18
+6.1   2026-03-01
+	Question-Yes.psm1 - version 1 (deprecated & removed from future versions)
+	Choose-MenuItem.psm1 - version 2.0.1 (deprecated & removed from future versions)
+	Open-FunctionFolder.psm1 - version 1 (added to module Roman_Util & removed from this module)
+6.2   2026-03-20
+6.3   2026-07-15
+6.4   2026-08-16
+6.5   2026-08-24
+6.6   2026-09-04
+7.0   2026-09-14
+8.0   2026-11-03
+	Assert-UniqueFileName (alias = Ensure-UniqueFileName) - version 1.0 (new to module)
+	Write-ScriptEvent - version 1.0
+	ConvertTo-Array.psm1 - version 2.1
+	Get-CredentialedComputer.psm1 - version 3
+	Read-Answer.psm1 (alias = Ask-Question) - version 2.2
+	Request-RunScript.psm1 (alias = Question-RunScript) - version 2.1
+	Split-Batch.psm1 (alias = Process-Batch) - version 1.1
+	Assert-Folder.psm1 (alias = Ensure-Folder) - version 1.4
+	Write-Log.psm1 - version 5.6
